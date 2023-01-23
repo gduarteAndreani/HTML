@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;700;900&display=swap'); 
+
+*{
+    font-family: 'Source Sans 3';
+    font-weight: 400;
+    text-align: center;
+}
+
+img{
+    border: 1px solid black;
+    width: 50vw;
+    height: auto;
+}
+
+h1{
+    font-weight: 900;
+    font-size: 88px;
+    line-height: 5vh;
+}
+
+header{
+    display: block;
+    background-color: #04146c;
+    top: 0;
+
+}
+
+strong{
+    font-weight: 700;
+}
+
+h1, p{
+    color: #04146c;
+    padding: auto;
+}
+
+div{
+    background-color: #edf7ff;
+    font-size: 24px;
+}
+
+#infoFinal{
+    width: 50vw;
+    margin-left: 24vw;
+}
+
+#arribaFoto{
+    font-size: 26.7px;
+}
+
+#coworking{
+    color: white;
+    font-size: 38.7px;
+}

@@ -1,0 +1,289 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@400;700;900&display=swap');
+
+*{
+    box-sizing: border-box;
+}
+
+header{
+    display: inline;
+    position: sticky;
+}
+
+body{
+    font-family: 'Roboto';
+    font-size: 32px;
+    background-color: #F2F2F2;
+}
+
+nav{
+    position: absolute;
+    top: 0px;
+    display: flex;
+    right: 10vw;
+    justify-content: flex-end;
+    align-items: center;
+}
+
+strong{
+    font-weight: 700;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+h4{
+    position: relative;
+    font-weight: 700;
+    font-size: 54.7px;
+    margin-bottom: 0px;
+}
+
+label{
+    font-weight: 700;
+    display: block;
+}
+
+footer{
+    font-size: 28px;
+    background-color: #FCEE21;
+    height: 100px;
+}
+
+input{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+textarea{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+li{
+    display: inline;
+}
+
+.contacto{
+    position: relative;
+    background-color: black;
+    color: white;
+    font-weight: 700;
+    font-size: 68px;
+    width: 35vw;
+    margin: 25px;
+    margin-left: 0px;
+}
+
+.logos{
+    position: absolute;
+    width: 120px;
+    height: auto;
+    bottom: -193vh;
+}
+
+.ast{
+    color: darkred;
+}
+
+.textF{
+    font-size: 20px;
+    width: 30vw;
+    height: 5vh;
+}
+
+.boton{
+    color: white;
+    height: 5vh;
+    width: 14.9vw;
+    background-color: black;
+}
+
+#listaDeServicios{
+    list-style-type: decimal;
+}
+
+.elementoServicio{
+    display: block;
+}
+
+.enlaceLista:hover{
+    background-color: yellow;
+}
+
+#cuerpoPrincipal{
+    margin: 50px;
+    margin-left: 100px;
+}
+
+#sIinicio{
+    position: relative;
+    margin-top: 20px;
+}
+
+#titulo{
+    position: absolute;
+    font-family: 'Roboto';
+    font-size: 64px;
+    font-weight: 700;
+    margin-top: -20px;
+}
+
+#subtitulo{
+    width: 34%;
+    font-size: 26.6px;
+    font-weight: 400;
+}
+
+#inicio{
+    width: 35%;
+    margin-top: 100px;
+    margin-bottom: 170px;
+}
+
+#wwwapasLit1{
+    font-family: 'Coiny';
+    font-size: 56px;
+    position: relative;
+    left: 0px;
+    top: 0px;
+}
+
+#fotoJuliYSofi{
+    width: 35vw;
+    height: auto;
+    position: absolute;
+    left: 53vw;
+    top: 20vh;
+}
+
+#wwwapasBig{
+    font-family: 'Coiny';
+    font-size: 117px;
+    margin: 0px;
+}
+
+#saludo{
+    position: relative;
+    width: 40vw;
+    margin-bottom: 10vh;
+}
+
+#saludoH{
+    width: 50vh;
+}
+
+#gestion{
+    position: absolute;
+    width: 70vh;
+    right: 10vw;
+    top: 88.5vh;
+}
+
+
+#fotoServicios{
+    width:35%;
+    height:auto;
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+
+#listServicios{
+    display: block;
+    position: absolute;
+    right: 15vw;
+    top: 135vh;
+    line-height: 65px;
+}
+
+#sieteStrong, h2, h3{
+    background-color: #FCEE21;
+    font-weight: 900;
+}
+
+#lineaSeparada{
+    line-height: 40px;
+}
+
+#sieteStrong{
+    margin-left: -1.7vw;
+    width: 23vw;
+    list-style: none;
+}
+
+#sieteStrong::before{
+    content: "7. ";
+}
+
+#consulta{
+    width: 40vw;
+    margin-bottom: 350px;
+}
+
+#textoCons{
+    width: 20vw;
+    background-color: #FCEE21;
+    font-weight: 900;
+}
+
+#formulario{
+    position: absolute;
+    display: block;
+    width: 60vw;
+    left: 50vw;
+    top: 215vh;
+}
+
+#botones{
+    margin-top: -15px;
+    display: block;
+}
+
+#redeswapas{
+    position: relative;
+    color: #808080;
+    font-weight: 900;
+    font-size: 34px;
+    width: 5vw;
+    margin-bottom: 100px;
+}
+
+#fmensaje{
+    width: 30vw;
+    height: 15vh;
+}
+
+#instagram{
+    left: 20vw;
+}
+
+#dribble{
+    left: 40vw;
+}
+
+#linkedin{
+    left: 60vw;
+}
+
+#facebook{
+    left: 80vw;
+}
+
+#wwwapasLit2{
+    position: relative;
+    font-family: 'Coiny';
+    font-size: 33px;
+    left: 5vw;
+    top: 3vh;
+}
+
+#correo{
+    position: absolute;
+    top: 303vh;
+    left: 20vw;
+}
+
+.logos:hover{
+    transform: translateY(10px) scale(1.2)
+}

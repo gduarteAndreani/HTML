@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@400;700&family=MuseoModerno:wght@700&display=swap');
+
+body{
+    background-color: #edf7ff;
+}
+
+h1{
+font-family: 'MuseoModerno';
+font-weight: 700;
+font-size: 117px;
+color: #0a2ff1;
+}
+
+.subtitulo{
+font-family: 'Asap';
+font-size: 52px;
+color: #0a2ff1;
+}
+
+p{
+font-family: 'Asap';
+color: #04146c;
+font-size: 33px;
+}
+
+.pStrong{
+font-family: 'Asap';
+font-weight: 700;
+}
+
+h3{
+font-family: 'MuseoModerno';
+font-weight: 700;
+font-size: 48px;
+color: #0a2ff1;
+}
+
+#listaMendoza{
+font-family: 'Asap';
+font-weight: 700;
+font-size: 33px;
+color: #04146c;
+}
+
+#finModo{
+font-family: 'MuseoModerno';
+font-weight: 700;
+font-size: 198.7px;
+color: #8a9af1
+
+}

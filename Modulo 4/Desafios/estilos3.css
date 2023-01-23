@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&family=Roboto:wght@400;700&display=swap');
+
+body{
+    box-sizing: border-box;
+    font-family: 'Roboto';
+    font-size: 25.3px;
+}
+
+header{
+    background-image: url(recursos2/M4\ -\ Desafío3_img-header.png);
+    background-size: contain;
+    height: 115vh;
+}
+
+main{
+    width: 80%;
+    padding: 10px;
+}
+
+h1{
+    font-family: 'Roboto Slab';
+    font-size: 58.7px;
+}
+
+h2{
+    font-size: 25.3px;
+    margin-top: 10px;
+    margin-bottom: -20px;
+}
+
+h1,h2{
+    font-weight: 700;
+    color:#0a2ff1
+}
+
+button{
+    width: 300px;
+    height: 50px;
+    margin-bottom: 10px;
+    font-family: 'Roboto';
+    color: white;
+    background-color: #0a2ff1;
+    font-size: 26.5px;
+    border: 0;
+}
+
+img{
+    display: block;
+    width: 99%;
+    margin: auto;
+}
+
+footer{
+    width: 100%;
+}
+
+hr{
+    float: bottom;
+    border: 5px solid #15163d;
+    background-color: #15163d;
+}
+
+#contenidoConMargen{
+    margin: 30px;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+#pregunta{
+    font-size: 24px;
+}

@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Coiny&family=Roboto:wght@700&display=swap');
+
+body{
+    font-family: 'Roboto';
+    font-size: 32px;
+}
+
+#titulo{
+    font-family: 'Roboto';
+    font-size: 64px;
+}
+
+.wwwapasLit{
+    font-family: 'Coiny';
+    font-size: 56px;
+}
+
+#wwwapasBig{
+    font-family: 'Coiny';
+    font-size: 117px;
+}

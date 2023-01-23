@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;700;900&display=swap');
+
+body {
+    font-family: 'Mulish';
+    color: #04146c;
+}
+
+section{
+    height: 20vh;
+}
+
+img {
+    display: inline;
+    width: 10vw;
+    margin-top: 1vw;
+}
+
+h1 {
+    font-weight: 900;
+    font-size: 27.5px;
+}
+
+h2 {
+    position: relative;
+    color: #0a2ff1;
+    font-weight: 700;
+    font-size: 21.6px;
+    margin-left: 4vw;
+    left: 10vw;
+    top: -11vh;
+}
+
+p {
+    position: relative;
+    font-size: 20px;
+    margin-left: 14vw;
+    top: -11vh;
+}
